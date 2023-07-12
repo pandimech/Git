@@ -3,3 +3,5 @@ Git commands
 1)git -init
 2)git -add
 3)git -commit
+4)git remote add origin https://github.com/pandimech/Git.git
+5)git push -u origin master
