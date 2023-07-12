@@ -6,4 +6,5 @@ Git commands
 3)git -commit
 4)git remote add origin https://github.com/pandimech/Git.git
 5)git push -u origin master
-
+6)git status
+7)git add.
