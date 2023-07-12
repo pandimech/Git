@@ -8,3 +8,6 @@ Git commands
 5)git push -u origin master
 6)git status
 7)git add.
+8)git status
+9)git log
+10)git log --oneline
